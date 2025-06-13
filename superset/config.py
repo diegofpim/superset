@@ -311,7 +311,7 @@ AUTH_RATE_LIMIT = "5 per second"
 APP_NAME = "Superset"
 
 # Specify the App icon
-APP_ICON = "/static/assets/images/eb_logo.png"
+APP_ICON = ""
 
 # Specify where clicking the logo would take the user'
 # Default value of None will take you to '/superset/welcome'
